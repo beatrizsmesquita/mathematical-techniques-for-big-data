@@ -1,0 +1,76 @@
+@Article{intro,
+  author = {Devin Soni},
+  title  = {Introduction to {B}ayesian {N}etworks},
+  year   = {2018},
+}
+
+@Book{berger,
+  author    = {Jim Berger},
+  publisher = {Springer-Verlag},
+  title     = {Statistical {D}ecision {T}heory and {B}ayesian {A}nalysis},
+  year      = {1985},
+}
+
+@Article{bengal,
+  author  = {Ben-Gal},
+  journal = {Encyclopedia of Statistics in Quality and Reability},
+  title   = {Bayesian {N}etworks},
+  year    = {2007},
+}
+
+@Book{FentonN2013,
+  author    = {Fenton N, Neil M.},
+  publisher = {Taylor and Francis},
+  title     = {Risk assessment and decision analysis with {B}ayesian networks},
+  year      = {2013},
+}
+
+@Book{PearlJ2018,
+  author    = {Pearl J, Mackenzie D.},
+  publisher = {Basic Books},
+  title     = {The book of why: {T}he new science of cause effect.},
+  year      = {2018},
+}
+
+@Article{Marcot2001,
+  author  = {Marcot, B. G. and Holthausen, R. S. and Raphael, M. G. and Rowland, M. M. and Wisdom, M. J.},
+  journal = {Ecol Manage},
+  title   = {Using {B}ayesian belief networks to evaluate fish and wildlife population viability under land management alternatives from an environmental impact statement},
+  year    = {2001},
+}
+
+@Article{Uusiatlo2012,
+  author  = {Uusiatlo and Kuikka, S. and Kauppila, P. and Soderkultalahti, P. and Back, S.},
+  journal = {Integr Environ Assess Manage},
+  title   = {Assessing the roles of environmental factors in coastal fish production in the northern {B}altic {S}ea: {A} {B}ayesian network application},
+  year    = {2012},
+}
+
+@Article{Borsuk2012,
+  author  = {Borsuk, M. E. and Schweizer, S. and Reichert, P.},
+  journal = {Integr Environ Assess Manag},
+  title   = {A {B}ayesian network model for integrative river rehabilitation planning and management},
+  year    = {2012},
+}
+
+@Article{Carriger2020,
+  author = {Carriger, John F. and Glendell, Miriam and Moe, S. Jannicke},
+  title  = {Increased {U}se of {B}ayesian {N}etwork {M}odels {H}as {I}mproved {E}nvironmental {R}isk {A}ssessments},
+  year   = {2020},
+}
+
+@Article{lendave,
+  author  = {Vijaysinh Lendave},
+  journal = {Developers Corner},
+  title   = {A {G}uide to {I}nfering {W}ith {B}ayesian {N}etwork},
+  year    = {2021},
+}
+
+@Article{Barton,
+  author  = {Saloranta, T. and Moe SJ, Barton D. N. and Eggestad, H. O. and Kuikka SBarton, D. N. and Saloranta, T. and Moe, S. J. and Eggestad, H. O. and Kuikka, S.},
+  journal = {Ecol Econ},
+  title   = {Bayesian belief networks as a meta-modelling tool in integrated river basin management{—}{P}ros and cons in evaluating nutrient abatement decisions under uncertainty in a {N}orwegian river basin},
+  year    = {2008},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
